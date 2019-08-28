@@ -1,9 +1,9 @@
 {
   "paragraphs": [
     {
-      "text": "abcdefghidsfdsfdsf\nsdfsdfdsfdsfds\nsdfsdfdsfsd\nrrertretertert",
-      "user": "quboleregression@gmail.com",
-      "dateUpdated": "Aug 13, 2019 10:13:39 AM",
+      "text": "abcdefghidsfdsfdsf\nsdfsdfdsfdsfds\nsdfsdfdsfsd\nrrertretertert\n\n\newrwrwewe\nwerewrewrewr\nwerwerwerewr\newrwerwer\nwrwerewrewr\nwerwerewr",
+      "user": "somyak@qubole.com",
+      "dateUpdated": "Aug 28, 2019 4:00:08 PM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -28,15 +28,44 @@
       "dateCreated": "Jul 23, 2019 7:40:51 AM",
       "status": "READY",
       "progressUpdateIntervalMs": 1000
+    },
+    {
+      "text": "bbjhjhk\nhkjkjhkj\nkjhkjhkuhkh\njbhkhkhhk,\nhkjkbkbk\nnkk \n\nnew_note",
+      "user": "somyak@qubole.com",
+      "dateUpdated": "Aug 28, 2019 4:00:27 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "version": "v0",
+      "jobName": "paragraph_1567007975636_552723158",
+      "id": "20190828-155935_1979905566_q_4P8BPPKM5U1563867651",
+      "dateCreated": "Aug 28, 2019 3:59:35 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 1000
     }
   ],
   "name": "new_note_git",
   "id": "4P8BPPKM5U1563867651",
   "angularObjects": {
-    "2EMX66QK6false1565691098601:shared_process": [],
-    "2EKMUJZW8false1565691098603:shared_process": [],
-    "2EJYYAS97false1565691098603:shared_process": [],
-    "2EMW4KR8Tfalse1565691098604:shared_process": []
+    "2EKYT9FWR381501567004333822:shared_process": [],
+    "2EJR8W3NE381501567004333825:shared_process": [],
+    "2EMDYHD1B381501567004333826:shared_process": [],
+    "2EKKJH5H4381501567004333825:shared_process": []
   },
   "config": {
     "isDashboard": false,
