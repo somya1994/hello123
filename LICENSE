@@ -1,9 +1,9 @@
 {
   "paragraphs": [
     {
-      "text": "abcdefghidsfdsfdsf\nsdfsdfdsfdsfds\nsdfsdfdsfsd\nrrertretertert\n\nwrewrwer\nrandon\ndsdfsdfsdfsdfd\ndfdsf\n",
+      "text": "abcdefghidsfdsfdsf\nsdfsdfdsfdsfds\nsdfsdfdsfsd\nrrertretertert",
       "user": "quboleregression@gmail.com",
-      "dateUpdated": "Aug 28, 2019 4:14:34 PM",
+      "dateUpdated": "Aug 13, 2019 10:13:39 AM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -28,44 +28,15 @@
       "dateCreated": "Jul 23, 2019 7:40:51 AM",
       "status": "READY",
       "progressUpdateIntervalMs": 1000
-    },
-    {
-      "text": "note12232\nrwerewr\newwerer",
-      "user": "quboleregression@gmail.com",
-      "dateUpdated": "Aug 28, 2019 4:14:34 PM",
-      "config": {
-        "colWidth": 12.0,
-        "graph": {
-          "mode": "table",
-          "height": 300.0,
-          "optionOpen": false,
-          "keys": [],
-          "values": [],
-          "groups": [],
-          "scatter": {}
-        },
-        "enabled": true,
-        "editorMode": "ace/mode/scala"
-      },
-      "settings": {
-        "params": {},
-        "forms": {}
-      },
-      "version": "v0",
-      "jobName": "paragraph_1567008851495_10392780",
-      "id": "20190828-161411_115552588_q_4P8BPPKM5U1563867651",
-      "dateCreated": "Aug 28, 2019 4:14:11 PM",
-      "status": "READY",
-      "progressUpdateIntervalMs": 1000
     }
   ],
   "name": "new_note_git",
   "id": "4P8BPPKM5U1563867651",
   "angularObjects": {
-    "2DGBTDFB3911526975678651:shared_process": [],
-    "2EKSJJ76K911567003077699:shared_process": [],
-    "2DGDUCH3U911526975678692:shared_process": [],
-    "2DF9JAX4Z911526975678604:shared_process": []
+    "2EMX66QK6false1565691098601:shared_process": [],
+    "2EKMUJZW8false1565691098603:shared_process": [],
+    "2EJYYAS97false1565691098603:shared_process": [],
+    "2EMW4KR8Tfalse1565691098604:shared_process": []
   },
   "config": {
     "isDashboard": false,
